@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="HexMorning.png" width="2448" height="2808">
+  <SubTexture name="lefthex4.png" x="0" y="0"  width="349" height="571" frameX="-21" frameY="-116" frameWidth="400" frameHeight="700"/>
+  <SubTexture name="lefthex3.png" x="349" y="0"  width="349" height="571" frameX="-19" frameY="-116" frameWidth="400" frameHeight="700"/>
+  <SubTexture name="lefthex2.png" x="0" y="571"  width="347" height="571" frameX="-22" frameY="-116" frameWidth="400" frameHeight="700"/>
+  <SubTexture name="lefthex1.png" x="347" y="571"  width="351" height="570" frameX="-21" frameY="-117" frameWidth="400" frameHeight="700"/>
+  <SubTexture name="lefthex0.png" x="698" y="0"  width="352" height="570" frameX="-21" frameY="-117" frameWidth="400" frameHeight="700"/>
+  <SubTexture name="uphex3.png" x="1050" y="0"  width="356" height="565" frameX="-13" frameY="-123" frameWidth="400" frameHeight="700"/>
+  <SubTexture name="uphex4.png" x="698" y="570"  width="362" height="564" frameX="-14" frameY="-124" frameWidth="400" frameHeight="700"/>
+  <SubTexture name="uphex2.png" x="0" y="1142"  width="358" height="564" frameX="-13" frameY="-124" frameWidth="400" frameHeight="700"/>
+  <SubTexture name="uphex5.png" x="358" y="1141"  width="370" height="563" frameX="-12" frameY="-125" frameWidth="400" frameHeight="700"/>
+  <SubTexture name="uphex1.png" x="728" y="1134"  width="360" height="563" frameX="-12" frameY="-125" frameWidth="400" frameHeight="700"/>
+  <SubTexture name="uphex0.png" x="1406" y="0"  width="360" height="562" frameX="-13" frameY="-126" frameWidth="400" frameHeight="700"/>
+  <SubTexture name="idolhex0.png" x="1060" y="565"  width="285" height="562" frameX="-64" frameY="-126" frameWidth="400" frameHeight="700"/>
+  <SubTexture name="idolhex10.png" x="1088" y="1127"  width="286" height="561" frameX="-65" frameY="-127" frameWidth="400" frameHeight="700"/>
+  <SubTexture name="idolhex3.png" x="1345" y="565"  width="288" height="560" frameX="-65" frameY="-128" frameWidth="400" frameHeight="700"/>
+  <SubTexture name="idolhex9.png" x="1374" y="1125"  width="288" height="560" frameX="-65" frameY="-128" frameWidth="400" frameHeight="700"/>
+  <SubTexture name="idolhex8.png" x="0" y="1706"  width="289" height="559" frameX="-66" frameY="-129" frameWidth="400" frameHeight="700"/>
+  <SubTexture name="idolhex4.png" x="289" y="1706"  width="289" height="559" frameX="-67" frameY="-129" frameWidth="400" frameHeight="700"/>
+  <SubTexture name="idolhex7.png" x="578" y="1704"  width="289" height="559" frameX="-67" frameY="-129" frameWidth="400" frameHeight="700"/>
+  <SubTexture name="idolhex5.png" x="867" y="1697"  width="291" height="558" frameX="-69" frameY="-130" frameWidth="400" frameHeight="700"/>
+  <SubTexture name="idolhex6.png" x="1158" y="1688"  width="290" height="558" frameX="-68" frameY="-130" frameWidth="400" frameHeight="700"/>
+  <SubTexture name="righthex0.png" x="1766" y="0"  width="342" height="549" frameX="-17" frameY="-137" frameWidth="400" frameHeight="700"/>
+  <SubTexture name="righthex5.png" x="1766" y="549"  width="338" height="549" frameX="-20" frameY="-137" frameWidth="400" frameHeight="700"/>
+  <SubTexture name="righthex2.png" x="1448" y="1685"  width="340" height="548" frameX="-15" frameY="-138" frameWidth="400" frameHeight="700"/>
+  <SubTexture name="righthex3.png" x="1662" y="1098"  width="340" height="548" frameX="-13" frameY="-138" frameWidth="400" frameHeight="700"/>
+  <SubTexture name="righthex4.png" x="2108" y="0"  width="340" height="548" frameX="-15" frameY="-138" frameWidth="400" frameHeight="700"/>
+  <SubTexture name="righthex1.png" x="2108" y="548"  width="338" height="548" frameX="-20" frameY="-138" frameWidth="400" frameHeight="700"/>
+  <SubTexture name="downhex1.png" x="1788" y="1646"  width="361" height="543" frameX="-6" frameY="-144" frameWidth="400" frameHeight="700"/>
+  <SubTexture name="downhex5.png" x="2002" y="1098"  width="361" height="543" frameX="-7" frameY="-144" frameWidth="400" frameHeight="700"/>
+  <SubTexture name="downhex3.png" x="0" y="2265"  width="363" height="543" frameX="-10" frameY="-145" frameWidth="400" frameHeight="700"/>
+  <SubTexture name="downhex0.png" x="363" y="2265"  width="360" height="543" frameX="-5" frameY="-144" frameWidth="400" frameHeight="700"/>
+  <SubTexture name="downhex4.png" x="723" y="2263"  width="360" height="542" frameX="-9" frameY="-145" frameWidth="400" frameHeight="700"/>
+  <SubTexture name="downhex2.png" x="1083" y="2255"  width="361" height="542" frameX="-9" frameY="-145" frameWidth="400" frameHeight="700"/>
+  <SubTexture name="idolhex1.png" x="1060" y="565"  width="285" height="562" frameX="-64" frameY="-126" frameWidth="400" frameHeight="700"/>
+  <SubTexture name="idolhex2.png" x="1060" y="565"  width="285" height="562" frameX="-64" frameY="-126" frameWidth="400" frameHeight="700"/>
+</TextureAtlas>
